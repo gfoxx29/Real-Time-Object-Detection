@@ -8,7 +8,7 @@ The purpose of this project is to:
 
 * Object Tracking In Videos. 
 
-* Run inference on the Jetson Nano with the models we creates.
+* Run inference on the Jetson Nano.
 
 <p align="center"> <img src="Images/Jetson-Nano.jpg" align="middle" alt="Jetson_Nano" width="400px"> </p> 
 
