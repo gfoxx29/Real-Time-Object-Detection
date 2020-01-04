@@ -4,7 +4,9 @@ Object detection and tracking in PyTorch
 ## Project Overview
 The purpose of this project is to:
 
-* Detect multiple objects in images and tracking them in videos. 
+* Object Detection in images.
+
+* Object Tracking In Videos. 
 
 * Run inference on the Jetson Nano with the models we creates.
 
