@@ -2,7 +2,7 @@
 Object detection and tracking in PyTorch 
 
 ## Project Overview
-The purpose of this project is to:
+The purpose of this project is:
 
 * >[Object Detection in images](https://github.com/nalbert9/Real-Time-Object-Detection/tree/master/Object_Detection)
 
